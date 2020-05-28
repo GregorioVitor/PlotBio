@@ -22,3 +22,4 @@ In this example, there are six fasta files in the same folder. The user need to 
 
 python3 PlotBio.py -N 6 Arabidopsis_thaliana_GreeNC.fasta Arabidopsis_thaliana_CANTATA.fasta Oryza_sativa_Japonica_Group_GreeNC.fasta Oryza_sativa_Japonica_Group_CANTATA.fasta Zea_mays_GreeNC.fasta Zea_mays_CANTATA.fasta
 
+The fasta files were get from CANTATAdb <http://cantata.amu.edu.pl/> and GreeNC <http://greenc.sciencedesigners.com/wiki/Main_Page>
